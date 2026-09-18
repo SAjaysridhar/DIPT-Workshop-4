@@ -75,3 +75,6 @@ params.minInertiaRatio = 0.8
 
 <img width="392" height="433" alt="download" src="https://github.com/user-attachments/assets/9a2a860d-807b-409e-baff-1b19b332a808" />
 
+### RESULT :
+
+Thus Coin-Detection-using-OpenCV-in-Python Done successfully.
